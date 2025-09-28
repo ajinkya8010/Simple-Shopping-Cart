@@ -7,7 +7,5 @@ export const createOrder = (req, res) => {
     return res.status(400).json({ message: "Invalid order format" });
   }
 
-  console.log("New Order Received:", items);
-
   res.json({ message: "Order placed successfully", order: items });
 };
