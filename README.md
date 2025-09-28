@@ -18,6 +18,13 @@ This project demonstrates a complete e-commerce workflow with:
 - Node.js (v16 or higher)
 - pnpm (recommended) or npm
 
+### Clone the repository
+   ```bash
+   git clone https://github.com/ajinkya8010/Simple-Shopping-Cart
+   cd Simple-Shopping-Cart
+   ```
+
+
 ### Backend Setup
 
 1. **Navigate to backend directory:**
@@ -63,10 +70,10 @@ This project demonstrates a complete e-commerce workflow with:
    pnpm run dev
    ```
 
-   Frontend will run on `http://localhost:3000`
+   Frontend will run on `http://localhost:5173`
 
 ### Full Application
-- Open your browser and navigate to `http://localhost:3000`
+- Open your browser and navigate to `http://localhost:5173`
 - The frontend will automatically connect to the backend API
 
 ## 🧪 Running Test Cases
