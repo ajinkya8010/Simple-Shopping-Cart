@@ -2,8 +2,6 @@
 
 A minimal, full-stack e-commerce application built with React and Node.js that allows users to browse products, manage a shopping cart, and simulate checkout.
 
-Loom video for reference - https://www.loom.com/share/3e137146d1644c12a898a639c8cbad85?sid=733c4537-3999-4ef7-8c08-95d92e2fe1bb
-
 ## 📋 Project Description
 
 This project demonstrates a complete e-commerce workflow with:
